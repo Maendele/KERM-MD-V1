@@ -6,9 +6,9 @@ _  ______   _____ _____ _____ _   _
 |_|\_\____|   |_| |_____\____|_| |_|
 
 ANYWAY, YOU MUST GIVE CREDIT TO MY CODE WHEN COPY IT
-CONTACT ME HERE +237656520674
-YT: KermHackTools
-Github: Kgtech-cmr
+CONTACT ME HERE +255714844318
+YT: harkingTech
+Github: maende17
 */
 
 const {
@@ -106,7 +106,7 @@ let up = `*╭──────────────●●►*
 *╭⊱✫🐲 KERM-MD-V1 🐲✫⊱╮*
 *│✫➠ - 📂REPOSITORY NAME:* *KERM-MD-V1*
 *│✫➠ - 📃DESCRIPTION:* *THE WORLD BEST WHATSAPP BOT♻️*
-*│✫➠ - 🛡️OWNER:* *KG TECH🇨🇲*
+*│✫➠ - 🛡️OWNER:* *GREEN HACKER🇨🇲*
 *│✫➠ - 🌐URL:* *https://github.com/Kgtech-cmr/KERM-MD-V1*
 
 *YOUR BOT ACTIVE NOW ENJOY♥️🪄*\n\n*PREFIX: ${prefix}*
